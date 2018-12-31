@@ -21,7 +21,7 @@ This page is intended to provide a list of top algorithms in computer science an
   <li><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Postorder Tree Traversal</a></li>  
   <li><a href="https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/" target="_blank">Kruskal's algorithm</a></li>
   <li><a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/" target="_blank">Dijkstra's algorithm for shortest path</a></li>
-  <li><a href="" target="_blank">Floyd Warshall algorithm</a></li>
+  <li><a href="https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/" target="_blank">Floyd Warshall algorithm for All Pairs Shortest Path</a></li>
   <li><a href="https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/" target="_blank">Dijkstra's algorithm for Adjacency Matrix Representation</a></li>
   <li><a href="https://www.geeksforgeeks.org/dijkstras-algorithm-for-adjacency-list-representation-greedy-algo-8/" target="_blank">Dijkstra's algorithm for Adjacency List Representation</a></li>
 </ol>
