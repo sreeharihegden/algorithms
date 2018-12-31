@@ -6,20 +6,20 @@ This page is intended to provide a list of top algorithms in computer science an
 <button onclick="sortList()">Sort A-Z</button>
 
 <ol id="id01">
-  <li>Linear Search</li>
-  <li>Binary search</li>
-  <li>Insertion sort</li>
-  <li>Selection sort</li>
-  <li>Bubble sort</li>
-  <li>Merge sort</li>
-  <li>Quick sort</li>
-  <li>Heap sort</li>
-  <li>Inorder Tree Traversal</li>
-  <li>Preorder Tree Traversal</li>
-  <li>Postorder Tree Traversal</li>  
-  <li>Kruskal's algorithm</li>
-  <li>Dijkstra's algorithm</li>
-  <li>Floyd Warshall algorithm</li>
+  <li><a href="https://www.geeksforgeeks.org/linear-search/">Linear Search</a></li>
+  <li><a href="">Binary search</a></li>
+  <li><a href="">Insertion sort</a></li>
+  <li><a href="">Selection sort</a></li>
+  <li><a href="">Bubble sort</a></li>
+  <li><a href="">Merge sort</a></li>
+  <li><a href="">Quick sort</a></li>
+  <li><a href="">Heap sort</a></li>
+  <li><a href="">Inorder Tree Traversal</a></li>
+  <li><a href="">Preorder Tree Traversal</a></li>
+  <li><a href="">Postorder Tree Traversal</a></li>  
+  <li><a href="">Kruskal's algorithm</a></li>
+  <li><a href="">Dijkstra's algorithm</a></li>
+  <li><a href="">Floyd Warshall algorithm</a></li>
 </ol>
 
 <script>
