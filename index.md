@@ -1,24 +1,17 @@
 ## Welcome to Algorithms!
 
-This page is intended to provide a list of famous algorithms in computer science or any programming students would look for.
+This page is intended to provide a list of top algorithms in computer science any programming students would look for.
 
-### Algorithms in alphabetical order:
-1. Insertion Sort
-2. Selection Sort
-3. Bubble Sort
-4. Merge Sort
-5. Quick Sort
+### Algorithms List:
+<button onclick="sortList()">Sort A-Z</button>
 
-<p>Click the button to sort the list alphabetically:</p>
-<button onclick="sortList()">Sort</button>
-
-<ul id="id01">
-  <li>Oslo</li>
-  <li>Stockholm</li>
-  <li>Helsinki</li>
-  <li>Berlin</li>
+<ol id="id01">
+  <li>Insertion Sort</li>
+  <li>Selection Sort</li>
+  <li>Bubble Sort</li>
+  <li>Merge Sort</li>
   <li>Rome</li>
-  <li>Madrid</li>
+  <li>Quick Sort</li>
 </ul>
 
 <script>
