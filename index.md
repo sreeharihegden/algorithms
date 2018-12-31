@@ -6,7 +6,7 @@ This page is intended to provide a list of top algorithms in computer science an
 <button onclick="sortList()">Sort A-Z</button>
 
 <ol id="id01">
-  <li><a href="https://www.geeksforgeeks.org/linear-search/" target="_blank">Linear Search</a></li>
+  <li><a href="https://www.geeksforgeeks.org/linear-search/" target="_blank">Linear search</a></li>
   <li><a href="http://geeksquiz.com/binary-search/" target="_blank">Binary search</a></li>  
   <li><a href="http://geeksquiz.com/selection-sort/" target="_blank">Selection sort</a></li>
   <li><a href="http://geeksquiz.com/insertion-sort/" target="_blank">Insertion sort</a></li>
@@ -16,11 +16,12 @@ This page is intended to provide a list of top algorithms in computer science an
   <li><a href="http://geeksquiz.com/heap-sort/" target="_blank">Heap sort</a></li>
   <li><a href="https://www.geeksforgeeks.org/radix-sort/" target="_blank">Radix sort</a></li>
   <li><a href="https://www.geeksforgeeks.org/bucket-sort-2/" target="_blank">Bucket sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/shellsort/" target="_blank">Shell sort</a></li>
   <li><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Inorder Tree Traversal</a></li>
   <li><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Preorder Tree Traversal</a></li>
   <li><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Postorder Tree Traversal</a></li>  
   <li><a href="https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/" target="_blank">Kruskal's algorithm</a></li>
-  <li><a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/" target="_blank">Dijkstra's algorithm for shortest path</a></li>
+  <li><a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/" target="_blank">Dijkstra's algorithm for Shortest Path</a></li>
   <li><a href="https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/" target="_blank">Floyd Warshall algorithm for All Pairs Shortest Path</a></li>
   <li><a href="https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/" target="_blank">Dijkstra's algorithm for Adjacency Matrix Representation</a></li>
   <li><a href="https://www.geeksforgeeks.org/dijkstras-algorithm-for-adjacency-list-representation-greedy-algo-8/" target="_blank">Dijkstra's algorithm for Adjacency List Representation</a></li>
