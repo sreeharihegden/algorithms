@@ -1,19 +1,21 @@
 ## Welcome to Algorithms!
 
-This page is intended to provide a list of top algorithms in computer science any programming students would look for.
+This page is intended to provide a list of top algorithms in computer science any programming students would look for. I have tried to provide useful links on more information about each of them as well, mostly <a href="https://www.geeksforgeeks.org/" target="_blank">GeeksforGeeks</a> references.
 
 ### Algorithms List:
 <button onclick="sortList()">Sort A-Z</button>
 
 <ol id="id01">
   <li><a href="https://www.geeksforgeeks.org/linear-search/" target="_blank">Linear Search</a></li>
-  <li><a href="" target="_blank">Binary search</a></li>
-  <li><a href="" target="_blank">Insertion sort</a></li>
-  <li><a href="" target="_blank">Selection sort</a></li>
-  <li><a href="" target="_blank">Bubble sort</a></li>
-  <li><a href="" target="_blank">Merge sort</a></li>
-  <li><a href="" target="_blank">Quick sort</a></li>
-  <li><a href="" target="_blank">Heap sort</a></li>
+  <li><a href="http://geeksquiz.com/binary-search/" target="_blank">Binary search</a></li>  
+  <li><a href="http://geeksquiz.com/selection-sort/" target="_blank">Selection sort</a></li>
+  <li><a href="http://geeksquiz.com/insertion-sort/" target="_blank">Insertion sort</a></li>
+  <li><a href="http://geeksquiz.com/bubble-sort/" target="_blank">Bubble sort</a></li>
+  <li><a href="http://geeksquiz.com/merge-sort/" target="_blank">Merge sort</a></li>
+  <li><a href="http://geeksquiz.com/quick-sort/" target="_blank">Quick sort</a></li>
+  <li><a href="http://geeksquiz.com/heap-sort/" target="_blank">Heap sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/radix-sort/" target="_blank">Radix sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/bucket-sort-2/" target="_blank">Bucket sort</a></li>
   <li><a href="" target="_blank">Inorder Tree Traversal</a></li>
   <li><a href="" target="_blank">Preorder Tree Traversal</a></li>
   <li><a href="" target="_blank">Postorder Tree Traversal</a></li>  
@@ -23,6 +25,7 @@ This page is intended to provide a list of top algorithms in computer science an
 </ol>
 
 <script>
+// Reference: this script is from https://www.w3schools.com/howto/howto_js_sort_list.asp
 function sortList() {
   var list, i, switching, b, shouldSwitch;
   list = document.getElementById("id01");
