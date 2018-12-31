@@ -16,10 +16,10 @@ This page is intended to provide a list of top algorithms in computer science an
   <li>Heap sort</li>
   <li>Inorder Tree Traversal</li>
   <li>Preorder Tree Traversal</li>
-  <li>Postorder Tree Traversals</li>  
-  <li>Kruskal's algorithm for finding a minimum spanning tree</li>
-  <li>Dijkstra's algorithm for Single-Source Shortest Paths (finding the shortest paths between nodes in a graph)</li>
-  <li>Floyd Warshall Algorithm for All-Pairs Shortest Paths (finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles))</li>
+  <li>Postorder Tree Traversal</li>  
+  <li>Kruskal's algorithm</li>
+  <li>Dijkstra's algorithm</li>
+  <li>Floyd Warshall algorithm</li>
 </ol>
 
 <script>
