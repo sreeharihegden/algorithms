@@ -7,7 +7,16 @@ This page is intended to provide a list of top algorithms in computer science an
 
 <ol id="id01">
   <li><a href="https://www.geeksforgeeks.org/linear-search/" target="_blank">Linear search</a></li>
-  
+  <li><a href="http://geeksquiz.com/binary-search/" target="_blank">Binary search</a></li>  
+  <li><a href="http://geeksquiz.com/selection-sort/" target="_blank">Selection sort</a></li>
+  <li><a href="http://geeksquiz.com/insertion-sort/" target="_blank">Insertion sort</a></li>
+  <li><a href="http://geeksquiz.com/bubble-sort/" target="_blank">Bubble sort</a></li>
+  <li><a href="http://geeksquiz.com/merge-sort/" target="_blank">Merge sort</a></li>
+  <li><a href="http://geeksquiz.com/quick-sort/" target="_blank">Quick sort</a></li>
+  <li><a href="http://geeksquiz.com/heap-sort/" target="_blank">Heap sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/radix-sort/" target="_blank">Radix sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/bucket-sort-2/" target="_blank">Bucket sort</a></li>
+  <li><a href="https://www.geeksforgeeks.org/shellsort/" target="_blank">Shell sort</a></li> 
   <li><a href="https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/" target="_blank">Travelling Salesman Problem using Dynamic Programming</a></li>
   <li><a href="https://www.geeksforgeeks.org/travelling-salesman-problem-set-2-approximate-using-mst/" target="_blank">Travelling Salesman Problem using MST</a></li>
   
