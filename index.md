@@ -6,20 +6,20 @@ This page is intended to provide a list of top algorithms in computer science an
 <button onclick="sortList()">Sort A-Z</button>
 
 <ol id="id01">
-  <li><a href="https://www.geeksforgeeks.org/linear-search/">Linear Search</a></li>
-  <li><a href="">Binary search</a></li>
-  <li><a href="">Insertion sort</a></li>
-  <li><a href="">Selection sort</a></li>
-  <li><a href="">Bubble sort</a></li>
-  <li><a href="">Merge sort</a></li>
-  <li><a href="">Quick sort</a></li>
-  <li><a href="">Heap sort</a></li>
-  <li><a href="">Inorder Tree Traversal</a></li>
-  <li><a href="">Preorder Tree Traversal</a></li>
-  <li><a href="">Postorder Tree Traversal</a></li>  
-  <li><a href="">Kruskal's algorithm</a></li>
-  <li><a href="">Dijkstra's algorithm</a></li>
-  <li><a href="">Floyd Warshall algorithm</a></li>
+  <li><a href="https://www.geeksforgeeks.org/linear-search/" target="_blank">Linear Search</a></li>
+  <li><a href="" target="_blank">Binary search</a></li>
+  <li><a href="" target="_blank">Insertion sort</a></li>
+  <li><a href="" target="_blank">Selection sort</a></li>
+  <li><a href="" target="_blank">Bubble sort</a></li>
+  <li><a href="" target="_blank">Merge sort</a></li>
+  <li><a href="" target="_blank">Quick sort</a></li>
+  <li><a href="" target="_blank">Heap sort</a></li>
+  <li><a href="" target="_blank">Inorder Tree Traversal</a></li>
+  <li><a href="" target="_blank">Preorder Tree Traversal</a></li>
+  <li><a href="" target="_blank">Postorder Tree Traversal</a></li>  
+  <li><a href="" target="_blank">Kruskal's algorithm</a></li>
+  <li><a href="" target="_blank">Dijkstra's algorithm</a></li>
+  <li><a href="" target="_blank">Floyd Warshall algorithm</a></li>
 </ol>
 
 <script>
