@@ -9,6 +9,9 @@ This page is intended to provide a list of famous algorithms in computer science
 4. Merge Sort
 5. Quick Sort
 
+<p>Click the button to sort the list alphabetically:</p>
+<button onclick="sortList()">Sort</button>
+
 <ul id="id01">
   <li>Oslo</li>
   <li>Stockholm</li>
