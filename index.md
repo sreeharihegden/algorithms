@@ -6,13 +6,21 @@ This page is intended to provide a list of top algorithms in computer science an
 <button onclick="sortList()">Sort A-Z</button>
 
 <ol id="id01">
-  <li>Insertion Sort</li>
-  <li>Selection Sort</li>
-  <li>Bubble Sort</li>
-  <li>Merge Sort</li>
-  <li>Rome</li>
-  <li>Quick Sort</li>
-</ul>
+  <li>Linear Search</li>
+  <li>Binary search</li>
+  <li>Insertion sort</li>
+  <li>Selection sort</li>
+  <li>Bubble sort</li>
+  <li>Merge sort</li>
+  <li>Quick sort</li>
+  <li>Heap sort</li>
+  <li>Inorder Tree Traversal</li>
+  <li>Preorder Tree Traversal</li>
+  <li>Postorder Tree Traversals</li>  
+  <li>Kruskal's algorithm for finding a minimum spanning tree</li>
+  <li>Dijkstra's algorithm for Single-Source Shortest Paths (finding the shortest paths between nodes in a graph)</li>
+  <li>Floyd Warshall Algorithm for All-Pairs Shortest Paths (finding shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles))</li>
+</ol>
 
 <script>
 function sortList() {
