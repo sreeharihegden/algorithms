@@ -19,24 +19,7 @@ This page is intended to provide a list of top algorithms in computer science an
   <li id='Bucket sort'><a href="https://www.geeksforgeeks.org/bucket-sort-2/" target="_blank">Bucket sort</a></li>
   <li id='Shell sort'><a href="https://www.geeksforgeeks.org/shellsort/" target="_blank">Shell sort</a></li>  
   
-  <li id='Inorder Tree Traversal'><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Inorder Tree Traversal</a></li>
-  <li id='Preorder Tree Traversal'><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Preorder Tree Traversal</a></li>
-  <li id='Postorder Tree Traversal'><a href="https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/" target="_blank">Postorder Tree Traversal</a></li>  
   
-   <li id='Breadth First Search (BFS for a Graph)'><a href="https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/" target="_blank">Breadth First Search (BFS for a Graph)</a></li>
-   <li id='Depth First Search (DFS for a Graph)'><a href="https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/" target="_blank">Depth First Search (DFS for a Graph)</a></li>   
-   
-   <li id='Prim’s algorithm for Minimum Spanning Tree'><a href="https://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/" target="_blank">Prim’s algorithm for Minimum Spanning Tree</a></li>
-   <li id='Kruskal's algorithm for Minimum Spanning Tree'><a href="https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/" target="_blank">Kruskal's algorithm for Minimum Spanning Tree</a></li>   
-   
-   <li id='Dijkstra's algorithm for Shortest Path'><a href="https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/" target="_blank">Dijkstra's algorithm for Shortest Path</a></li>
-  <li id='Floyd Warshall algorithm for All Pairs Shortest Path'><a href="https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/" target="_blank">Floyd Warshall algorithm for All Pairs Shortest Path</a></li>
-  <li id='Dijkstra's algorithm for Adjacency List Representation'><a href="https://www.geeksforgeeks.org/dijkstras-algorithm-for-adjacency-list-representation-greedy-algo-8/" target="_blank">Dijkstra's algorithm for Adjacency List Representation</a></li>
-  <li id='Dijkstra's algorithm for Adjacency Matrix Representation'><a href="https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/" target="_blank">Dijkstra's algorithm for Adjacency Matrix Representation</a></li>  
-  
-  
-   <li id='Travelling Salesman Problem using Dynamic Programming'><a href="https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/" target="_blank">Travelling Salesman Problem using Dynamic Programming</a></li>
-  <li id='Travelling Salesman Problem using MST'><a href="https://www.geeksforgeeks.org/travelling-salesman-problem-set-2-approximate-using-mst/" target="_blank">Travelling Salesman Problem using MST</a></li>
   
 </ol>
 
